@@ -1,5 +1,5 @@
 # Aum59 My Pages
-   #![aumpic](pictures/aumpic.jpg)Header 1
+<center>#![aumpic](pictures/aumpic.jpg)</center>
    
 1.) [My Album](myalbum.md)     2.) [Education](education.md)     3.) [Ability](ability.md)
 ---
