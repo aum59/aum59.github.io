@@ -1,7 +1,11 @@
 # Aum59 My Pages
 ![aum](pictures/aumpic.jpg)
    
-1. [My Album](myalbum.md)   1. [Education](education.md)     1.) [Ability](ability.md)
+### [](#header-3)[My Album](myalbum.md)
+### [](#header-3)[Education](education.md)
+### [](#header-3)[Ability](ability.md)
+### [](#header-3)[Project](project.md)
+
 ---
 layout: default
 ---
