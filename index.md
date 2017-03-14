@@ -1,6 +1,9 @@
-# Aum59 My Pages
-![aum](pictures/aumpic.jpg)
-   
+<p align="center"> <H1>Aum59 My Pages</H1> </p> 
+<p align="center"> <img src="pictures/aumpic.jpg"/> </p>
+
+<p align="center"> 
+   <b>[My Album](myalbum.md)</b>
+</p> 
 ### [](#header-3)[My Album](myalbum.md)
 ### [](#header-3)[Education](education.md)
 ### [](#header-3)[Ability](ability.md)
