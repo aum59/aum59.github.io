@@ -1,14 +1,11 @@
 <p align="center"> <H1>Aum59 My Pages</H1> </p> 
 <p align="center"> <img src="pictures/aumpic.jpg"/> </p>
 <br>
-<p align="center"> 
-   <b>
-      <p align="center"> <li><a href="album.md">My Album</a></li> </p>
-      <p align="center"> <li><a href="education.md">My Education</a></li> </p>
-      <p align="center"> <li><a href="ability.md">My Ability</a></li> </p>
-      <p align="center"> <li><a href="project.md">My Project</a></li> </p>
-   </b> 
-</p>
+
+## [**อัลบั้มรูป**](myalbum.md)
+## [**ประวัติการศึกษา**](education.md)
+## [**ความสามารถพิเศษ**](ability.md)
+## [**ผลงาน**](project.md)
 
 * * *
 ## [อัลบั้มรูป](album.md)
