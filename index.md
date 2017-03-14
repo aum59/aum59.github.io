@@ -3,27 +3,19 @@
 <br><br>
 <p align="center"> 
    <b>
-      <p align="center"> <li><a href="myalbum.md">Album</a></li> </p>
-      <p align="center"> <li><a href="education.md">Education</a></li> </p>
-      <p align="center"> <li><a href="ability.md">Ability</a></li> </p>
-      <p align="center"> <li><a href="project.md">Project</a></li> </p>
+      <p align="center"> <li><a href="album.md">My Album</a></li> </p>
+      <p align="center"> <li><a href="education.md">My Education</a></li> </p>
+      <p align="center"> <li><a href="ability.md">My Ability</a></li> </p>
+      <p align="center"> <li><a href="project.md">My Project</a></li> </p>
    </b> 
 </p>
-<p align="center">[**My Album**](album.md)
-
-<p align="center">[**My Education**](education.md)
-
-<p align="center">[**My Ability**](ability.md)
-
-<p align="center">[**My Project**](project.md)
-
-## [](#header-2)Header 2
+## [My Album](album.md)
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+## [My Education](education.md)
 
 ```js
 // Javascript code with syntax highlighting.
@@ -32,13 +24,13 @@ var fun = function lang(l) {
   return true;
 }
 ```
-##### [](#header-5)Header 5
+## [My Ability](ability.md)
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
+## [My Project](project.md)
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -46,8 +38,6 @@ var fun = function lang(l) {
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
 
 * * *
 
