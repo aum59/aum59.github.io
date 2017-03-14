@@ -9,13 +9,13 @@
       <p align="center"> <li><a href="project.md">My Project</a></li> </p>
    </b> 
 </p>
-## [My Album](album.md)
+## [อัลบั้มรูป](album.md)
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-## [Resume](education.md)
+## [ประวัติการศึกษา](education.md)
 
 ```js
 // Javascript code with syntax highlighting.
@@ -24,13 +24,13 @@ var fun = function lang(l) {
   return true;
 }
 ```
-## [My Ability](ability.md)
+## [ความสามารถพิเศษ](ability.md)
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-## [My Project](project.md)
+## [ผลงาน](project.md)
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
