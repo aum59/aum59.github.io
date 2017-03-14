@@ -35,10 +35,10 @@ var fun = function lang(l) {
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+|      ok      | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|      ok      | good `oreos`      | hmm   |
+|      ok      | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
