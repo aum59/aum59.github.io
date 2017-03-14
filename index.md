@@ -15,4 +15,4 @@
 
 *  Email : intarumpun@yahoo.com
 *  FaceBook : facebook.com/intarumpun
-*  ID Line : intarumpin
+*  ID Line : intarumpun
