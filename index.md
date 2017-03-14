@@ -3,12 +3,19 @@
 <br><br>
 <p align="center"> 
    <b>
-      <p align="center"> <li><a href="myalbum.md">My Album</a></li> </p>
+      <p align="center"> <li><a href="myalbum.md">Album</a></li> </p>
       <p align="center"> <li><a href="education.md">Education</a></li> </p>
       <p align="center"> <li><a href="ability.md">Ability</a></li> </p>
       <p align="center"> <li><a href="project.md">Project</a></li> </p>
    </b> 
 </p>
+<p align="center">[**My Album**](album.md)
+
+<p align="center">[**My Education**](education.md)
+
+<p align="center">[**My Ability**](ability.md)
+
+<p align="center">[**My Project**](project.md)
 
 ## [](#header-2)Header 2
 
