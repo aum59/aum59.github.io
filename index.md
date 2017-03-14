@@ -15,7 +15,7 @@
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-## [My Education](education.md)
+## [Resume](education.md)
 
 ```js
 // Javascript code with syntax highlighting.
