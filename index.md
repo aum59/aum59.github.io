@@ -1,17 +1,19 @@
+---
+layout: default
+---
+
 <p align="center"> <H1>Aum59 My Pages</H1> </p> 
 <p align="center"> <img src="pictures/aumpic.jpg"/> </p>
 
 <p align="center"> 
-   <b>[My Album](myalbum.md)</b>
-</p> 
-### [](#header-3)[My Album](myalbum.md)
-### [](#header-3)[Education](education.md)
-### [](#header-3)[Ability](ability.md)
-### [](#header-3)[Project](project.md)
+   <b>
+      <li><a href="myalbum.md">My Album</a></li>
+      <li><a href="education.md">Education</a></li>
+      <li><a href="ability.md">Ability</a></li>
+      <li><a href="project.md">Project</a></li>
+   </b>
+</p>
 
----
-layout: default
----
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
