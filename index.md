@@ -1,6 +1,6 @@
 <p align="center"> <H1>Aum59 My Pages</H1> </p> 
 <p align="center"> <img src="pictures/aumpic.jpg"/> </p>
-
+<br><br>
 <p align="center"> 
    <b>
       <p align="center"> <li><a href="myalbum.md">My Album</a></li> </p>
@@ -35,10 +35,10 @@ var fun = function lang(l) {
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-|      ok      | good swedish fish | nice  |
+| ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
-|      ok      | good `oreos`      | hmm   |
-|      ok      | good `zoute` drop | yumm  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
@@ -50,26 +50,3 @@ var fun = function lang(l) {
 *   Item bar
 *   Item baz
 *   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
