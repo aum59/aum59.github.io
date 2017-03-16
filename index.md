@@ -19,5 +19,5 @@
 ### Social Network
 
 *  Email : intarumpun@yahoo.com
-*  FaceBook : facebook.com/intarumpun
+*  FaceBook : /intarumpun
 *  ID Line : intarumpun
