@@ -2,9 +2,9 @@
   <H1>Aum59 My Page</H1>
 </p>
 <p align="center"> 
-  <img src="pictures/aumpic.jpg"/>
+  <img src="/pictures/aumpic.jpg"/>
 </p>
 
 <br>
 
-##### [*back to homepage*](/index.md)
+##### [*back to homepage*](https://aum59github.io/aum59/index.md)
