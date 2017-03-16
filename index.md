@@ -7,10 +7,10 @@
 
 <br>
 
-## [**อัลบั้มรูป**](myalbum.md)
-## [**ประวัติการศึกษา**](education.md)
-## [**ความสามารถพิเศษ**](ability.md)
-## [**ผลงาน**](project.md)
+## [**อัลบั้มรูป**](pages/myalbum.md)
+## [**ประวัติการศึกษา**](pages/education.md)
+## [**ความสามารถพิเศษ**](pages/ability.md)
+## [**ผลงาน**](pages/project.md)
 
 <br>
 
