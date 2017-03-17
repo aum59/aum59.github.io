@@ -7,7 +7,7 @@
 
 <br>
 
-## [**อัลบั้มรูป**](pages/myalbum.md)
+## [**อัลบั้มรูป**](myalbum.md)
 ## [**ประวัติการศึกษา**](pages/education.md)
 ## [**ความสามารถพิเศษ**](pages/ability.md)
 ## [**ผลงาน**](pages/project.md)
