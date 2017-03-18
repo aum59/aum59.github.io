@@ -1,1 +1,1 @@
-# [Welcome to Aum59 GitHub Pages](https://aum59.github.io/aum59/)
+# [Welcome to Aum59 GitHub Pages](https://aum59.github.io/)
