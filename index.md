@@ -8,9 +8,9 @@
 <br>
 
 ## [**อัลบั้มรูป**](myalbum.md)
-## [**ประวัติการศึกษา**](pages/education.md)
-## [**ความสามารถพิเศษ**](pages/ability.md)
-## [**ผลงาน**](pages/project.md)
+## [**ประวัติการศึกษา**](education.md)
+## [**ความสามารถพิเศษ**](ability.md)
+## [**ผลงาน**](project.md)
 
 <br>
 
