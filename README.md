@@ -1,1 +1,2 @@
-# [Welcome to Aum59 GitHub Pages](https://aum59.github.io/)
+# Welcome to Aum59 GitHub Pages
+![](/picture/myalbum02.jpg)
