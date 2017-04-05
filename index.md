@@ -27,8 +27,9 @@
 
 <div align="center">
   <button onclick="getLocation()">You are in 1,000 kilometers around here T_T</button>
-  <div id="mapholder"></div>
+  <div id="mapholder"></div>  
 </div>
+<br>
 
 <script>
 var x = document.getElementById("demo");
