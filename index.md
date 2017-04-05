@@ -24,10 +24,10 @@
 
 <link rel="stylesheet" type="text/css" href="/css/mycss.css">
 
-<p id="center">
+<div align="center">
   <h3>My Location</h3>
-  <div id="map" style="width:400px;height:400px;background:yellow"></div>
-</p>
+  <p id="map" style="width:400px;height:400px;background:yellow"></p>
+</div>
 
 <script>
 function myMap() {
