@@ -22,9 +22,9 @@
 *  FaceBook : /intarumpun
 *  ID Line : intarumpun
 <br>
-<p align="center">
-<div id="map" style="width:400px;height:200px"></div>
-</p>
+<div align="center">
+<p id="map" style="width:400px;height:200px"></p>
+</div>
 
 <script>
 function myMap() {
