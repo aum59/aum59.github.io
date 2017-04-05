@@ -22,18 +22,19 @@
 *  FaceBook : /intarumpun
 *  ID Line : intarumpun
 
+<br>
 <link rel="stylesheet" type="text/css" href="/css/mycss.css">
 
 <div align="center">
   <h3>My Location</h3>
-  <p id="map" style="width:400px;height:400px;background:yellow"></p>
+  <p id="map" style="width:300px;height:300px;background:yellow"></p>
 </div>
 
 <script>
 function myMap() {
 var mapOptions = {
-    center: new google.maps.LatLng(14.3579522, 100.5820171),
-    zoom: 15,
+    center: new google.maps.LatLng(14.35, 100.58),
+    zoom: 8,
     mapTypeId: google.maps.MapTypeId.HYBRID
 }
 var map = new google.maps.Map(document.getElementById("map"), mapOptions);
