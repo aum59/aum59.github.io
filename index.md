@@ -46,7 +46,7 @@ function showPosition(position) {
     var latlon = position.coords.latitude + "," + position.coords.longitude;
 
     var img_url = "https://maps.googleapis.com/maps/api/staticmap?center="
-    +latlon+"&zoom=14&size=250x200&sensor=false&key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU";
+    +latlon+"&zoom=14&size=200x200&sensor=false&key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU";
     document.getElementById("mapgoogle").innerHTML = "<img src='"+img_url+"'>";
 }
 
