@@ -1,1 +1,8 @@
-
+#app {
+  text-align: center;
+  padding: 70px;
+  font-size: 22px;
+  max-width: 360px;
+  margin: 0 auto;
+  display: table;
+}
