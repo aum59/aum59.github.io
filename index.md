@@ -26,15 +26,9 @@
 <link rel="stylesheet" type="text/css" href="/css/mycss.css">
 
 <div align="center">
-  <h3><i>My Location</i></h3>
-  <p id="map" style="width:300px;height:300px;background:yellow"></p>
+  <button onclick="getLocation()">You are in 1,000 kilometers around here T_T</button>
+  <div id="mapholder"></div>
 </div>
-
-<p id="demo">Click the button to get your position.</p>
-
-<button onclick="getLocation()">Try It</button>
-
-<div id="mapholder"></div>
 
 <script>
 var x = document.getElementById("demo");
@@ -54,8 +48,6 @@ function showPosition(position) {
     +latlon+"&zoom=14&size=400x300&sensor=false&key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU";
     document.getElementById("mapholder").innerHTML = "<img src='"+img_url+"'>";
 }
-//To use this code on your website, get a free API key from Google.
-//Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 
 function showError(error) {
     switch(error.code) {
