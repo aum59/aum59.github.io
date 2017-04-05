@@ -22,21 +22,19 @@
 *  FaceBook : /intarumpun
 *  ID Line : intarumpun
 
-<div id="map" style="width:400px;height:400px;background:yellow"></div>
+<link rel="stylesheet" type="text/css" href="/css/mycss.css">
+
+<p id="center">My Location</p>
 
 <script>
 function myMap() {
 var mapOptions = {
-    center: new google.maps.LatLng(51.5, -0.12),
-    zoom: 10,
+    center: new google.maps.LatLng(14.3579522, 100.5820171),
+    zoom: 15,
     mapTypeId: google.maps.MapTypeId.HYBRID
 }
 var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 }
 </script>
 
-<link rel="stylesheet" type="text/css" href="/css/mycss.css">
-<p id="app">My Location</p>
-
-<script src="https://www.google.co.th/maps/@14.3579522,100.5820171,15z?hl=th"></script>
-
+<div id="map" style="width:400px;height:400px;background:yellow"></div>
