@@ -26,7 +26,7 @@
 <link rel="stylesheet" type="text/css" href="/css/mycss.css">
 
 <div align="center">
-  <button onclick="getLocation()">You are in ... kilometers around here :)P</button>
+  <button onclick="getLocation()"><h3><i>You are in ... kilometers around here :)P</i></h3></button>
   <div id="mapholder"></div>  
 </div>
 
