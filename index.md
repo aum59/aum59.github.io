@@ -26,7 +26,7 @@
 <link rel="stylesheet" type="text/css" href="/css/mycss.css">
 
 <div align="center">
-  <h3><b>My Location</b></h3>
+  <h3><i>My Location</i></h3>
   <p id="map" style="width:300px;height:300px;background:yellow"></p>
 </div>
 
