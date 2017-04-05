@@ -1,8 +1,8 @@
 <p align="center">
-  <H1>Aum59 My Page</H1>
-  <p id="time"> <script>
+  <h1>Aum59 My Page</h1>
+  <h3 id="time"> <script>
       document.getElementById('time').innerHTML = Date()
-  </script> </p>
+  </script> </h3>
 </p>
 <p align="center"> 
   <img src="pictures/aumpic.jpg"/>
