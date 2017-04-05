@@ -33,8 +33,10 @@ var mapOptions = {
 }
 var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 }
-<link rel="stylesheet" type="text/css" href="/css/mycss.css">
-<div id="app">My Location</div>
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+
+<link rel="stylesheet" type="text/css" href="/css/mycss.css">
+<p id="app">My Location</p>
+
+<script id="app" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
 
