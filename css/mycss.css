@@ -1,8 +1,6 @@
-#app {
+#center {
   text-align: center;
-  padding: 70px;
-  font-size: 22px;
+  font-size: 44px;
   max-width: 360px;
   margin: 0 auto;
-  display: table;
 }
