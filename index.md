@@ -26,14 +26,14 @@
 <link rel="stylesheet" type="text/css" href="/css/mycss.css">
 
 <div align="center">
-  <h3>My Location</h3>
+  <h3><b>My Location</b></h3>
   <p id="map" style="width:300px;height:300px;background:yellow"></p>
 </div>
 
 <script>
 function myMap() {
 var mapOptions = {
-    center: new google.maps.LatLng(14.35, 100.58),
+    center: new google.maps.LatLng(14.3, 100.5),
     zoom: 8,
     mapTypeId: google.maps.MapTypeId.HYBRID
 }
