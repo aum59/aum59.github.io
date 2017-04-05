@@ -1,11 +1,12 @@
-<p id="time" align="center">
+<p align="center">
   <h1>Aum59 My Page</h1>
-  <h6 ><script>document.getElementById('time').innerHTML = Date()</script> </h6>
 </p>
 <p align="center"> 
   <img src="pictures/aumpic.jpg"/>
 </p>
-
+<p id="time" align="center" >
+  <h6 ><script>document.getElementById('time').innerHTML = Date()</script></h6>
+</p>
 <br>
 
 ## [**อัลบั้มรูป**](myalbum.md)
