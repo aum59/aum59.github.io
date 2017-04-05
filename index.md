@@ -24,7 +24,10 @@
 
 <link rel="stylesheet" type="text/css" href="/css/mycss.css">
 
-<p id="center">My Location</p>
+<p id="center">
+  <h3>My Location</h3>
+  <div id="map" style="width:400px;height:400px;background:yellow"></div>
+</p>
 
 <script>
 function myMap() {
@@ -36,5 +39,3 @@ var mapOptions = {
 var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 }
 </script>
-
-<div id="map" style="width:400px;height:400px;background:yellow"></div>
