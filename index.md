@@ -38,4 +38,3 @@ function myMap() {
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLf0XzSJrXThU16kCeFKJCZfeCntvFUvI&callback=myMap"></script>
-<!--https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyChREV9xDG_SNSr8ga0j-D7piGyQe5YIj0
