@@ -21,11 +21,10 @@
 *  Email : intarumpun@yahoo.com
 *  FaceBook : /intarumpun
 *  ID Line : intarumpun
-
 <br>
-<link rel="stylesheet" type="text/css" href="/css/mycss.css">
-
+<p align="center">
 <div id="map" style="width:200px;height:200px"></div>
+</p>
 
 <script>
 function myMap() {
