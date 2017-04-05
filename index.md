@@ -27,7 +27,7 @@
 
 <div align="center">
   <p id="demo"></p>
-  <h3 onclick="getLocation()"><i>You are in ... kilometers around here :)P</i></h3>
+  <h3 onclick="getLocation()"><i>You're around this :)b</i></h3>
   <div id="mapgoogle"></div>  
 </div>
 
