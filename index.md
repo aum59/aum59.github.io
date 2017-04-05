@@ -23,7 +23,7 @@
 *  ID Line : intarumpun
 <br>
 <p align="center">
-<div id="map" style="width:200px;height:200px"></div>
+<div id="map" style="width:400px;height:200px"></div>
 </p>
 
 <script>
