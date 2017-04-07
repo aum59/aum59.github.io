@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://media.giphy.com/media/13ZHjidRzoi7n2/giphy.gif"/> </p>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/26s7LynqshBny/giphy.gif"/><br><br>
+  <a href="http://128.199.169.112">aum59 on DigitalOcean</a><br><br>
+  <a href="https://aum59.herokuapp.com">aum59 on Heroku</a><br>  
+</p>
 
 ##### [*back to homepage*](index.md)
 
