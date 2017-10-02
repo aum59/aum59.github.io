@@ -36,8 +36,7 @@ function myMap() {
   var map = new google.maps.Map(mapCanvas, mapOptions);
   var marker = new google.maps.Marker({position:myCenter});
   marker.setMap(map);
-}
- 
+} 
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLf0XzSJrXThU16kCeFKJCZfeCntvFUvI&callback=myMap"></script>
