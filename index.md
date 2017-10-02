@@ -1,14 +1,3 @@
-<script> 
-.ribbon_top_right {
-	position: fixed;
-	z-index: 100;
-	right: 0;
-	top: 0;
-}
-</script>
-
-<script src="images/ribbon_top_right.png" class="ribbon_top_right"></script>
-
 <p align="center">
   <h1>Aum59 My Page</h1>
 </p>
