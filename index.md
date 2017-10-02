@@ -5,7 +5,7 @@
   <i id="date"></i>
 </p>
 <p align="center"> 
-  <img src="pictures/aumpic.jpg"/>
+  <img src="pictures/aum59.jpg"/>
 </p>
 <br>
 
