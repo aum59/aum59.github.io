@@ -39,4 +39,4 @@ function myMap() {
 } 
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLf0XzSJrXThU16kCeFKJCZfeCntvFUvI&callback=myMap"></script>
+
